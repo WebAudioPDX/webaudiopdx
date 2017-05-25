@@ -1,7 +1,7 @@
 Web Audio PDX
 =======
 
-![logo](wapdx.png)
+<img src="https://github.com/WebAudioPDX/webaudiopdx/blob/master/wa-pdx.png?raw=true" height="300" width="300">
 
 The Web Audio meetup of Portland, Oregon.
 
