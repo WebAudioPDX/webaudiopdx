@@ -1,5 +1,5 @@
 # Update (10/23/17)
-After a fair amount of consideration we decided that at this juncture offering workshops and other resources will most likely be more productive and an easier entry point for our group towards worthwhile programming tools and fundamental concepts around digital signal processing for music applications. This class is incredible and individuals should be highly encouraged to take it on their own. We will most likely save this class 'in our pocket' and pick it up as a group when it becomes available again.
+After a fair amount of consideration we decided that at this juncture offering workshops and other resources will most likely be more productive, and provide an easier entry point for our group towards worthwhile programming tools and fundamental concepts around digital signal processing for music applications. This class is incredible and individuals should be highly encouraged to take it on their own. We will most likely save this class 'in our pocket' and pick it up as a group when it becomes available again.
 
 ----
 
