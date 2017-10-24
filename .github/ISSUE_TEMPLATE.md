@@ -2,7 +2,7 @@
 <!--- Please delete all comments (like this) & unrelated sections before submitting your issue -->
 
 
-<!--- Talk/Demo Template: -->
+<!--- TALK/DEMO TEMPLATE -->
 
 ## Talk Title
 <!--- What is the title of your talk? -->
@@ -21,7 +21,7 @@
 
 ----
 
-<!--- Dev issue Template: -->
+<!--- DEV ISSUE TEMPLATE -->
 
 ## Description
 <!--- Please provide a brief but complete description of the issue. -->
